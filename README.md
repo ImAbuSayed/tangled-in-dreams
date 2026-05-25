@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tangled In Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-dreams/) |
+| **Get License** | [License this song: Tangled In Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3991b54f84775260dce8dc791b995f1bede9db92b4c218aba7818c759ff6628e` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
