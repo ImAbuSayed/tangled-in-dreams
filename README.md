@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tangled In Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-dreams/) |
+| **Get License** | [Obtain a Music License for Tangled In Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got the moonlight spilling on the hardwood floor
+> You're the only kind of trouble that I'm looking for
+> A midnight conversation and a slow, sweet sway
+> I want to get lost in you and throw the map away
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
